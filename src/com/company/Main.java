@@ -9,6 +9,6 @@ public class Main {
 
         System.out.print("aaaa");
 
-        System.out.print("---");
+        System.out.print("saa");
     }
 }
